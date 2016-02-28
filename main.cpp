@@ -46,7 +46,7 @@
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
-    QGuiApplication::setApplicationDisplayName(ImageViewer::tr("Image encrypter"));
+    QGuiApplication::setApplicationDisplayName(ImageViewer::tr("Image Encrypter"));
     ImageViewer imageViewer;
     imageViewer.show();
     return app.exec();
