@@ -2,7 +2,7 @@ Copyright (c) 2016, Kamil Jastrzab
 All rights reserved.
 
 # Image-Encrypter
-Image Encrypter is free stenography application that enables to hide message picture inside a storage picture.
+Image Encrypter is free steganography application that enables to hide message picture inside a storage picture.
 Application allows user to pick number of bits that will carry the message into storage, and if the message should be hidden grey or in colour.
 What application does is to divide colour bytes into segments most signing bits are for storage picture, least signing bits are for message picture.
 What is important that hiddden messages can be decrypted if picture was not compressed with loses.
